@@ -1,4 +1,4 @@
-# JunX.NET8-Encryptor-Decryptor
+# JunX.NET8 Encryptor-Decryptor
 <img src="JunX.NET8 Encryptor-Decryptor/Resources/JunX.NET8.png" align="right" width="200px" height="200px" /> 
 <p>This application is created to encrypt and decrypt strings using the JunX.NET8.EncryptionService.</p>
 <br/>
