@@ -10,4 +10,5 @@
 <strong>DEPENDENCIES</strong>
 <ul>
   <li><a href="https://www.nuget.org/packages/JunX.NET8">JunX.NET8 NuGet Package</a></li>
+  <li><a href="https://github.com/JuniperB07/JunX.NET">JunX.NET Repository</a></li>
 </ul>
