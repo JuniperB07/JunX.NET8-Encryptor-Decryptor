@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Visual Studio\\C#\\JunX.NET8 Encryptor-Decryptor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D62C24-233E-4F9C-870C-8047EA161172}|JunX.NET8 Encryptor-Decryptor.csproj|c:\\users\\user\\documents\\visual studio\\c#\\junx.net8 encryptor-decryptor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D62C24-233E-4F9C-870C-8047EA161172}|JunX.NET8 Encryptor-Decryptor.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D62C24-233E-4F9C-870C-8047EA161172}|JunX.NET8 Encryptor-Decryptor.csproj|c:\\users\\user\\documents\\visual studio\\c#\\junx.net8 encryptor-decryptor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49D62C24-233E-4F9C-870C-8047EA161172}|JunX.NET8 Encryptor-Decryptor.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Visual Studio\\C#\\JunX.NET8 Encryptor-Decryptor\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Visual Studio\\C#\\JunX.NET8 Encryptor-Decryptor\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:15:42.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Visual Studio\\C#\\JunX.NET8 Encryptor-Decryptor\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Visual Studio\\C#\\JunX.NET8 Encryptor-Decryptor\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:14:09.034Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
